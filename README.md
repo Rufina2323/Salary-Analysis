@@ -1,7 +1,7 @@
 # Analyzing the Data Science Salaries
 
 ### Problem context
-The data science industry is rapidly developing, leading to a high demand for skilled profes- sionals. Therefore, understanding factors that influence their salaries is crucial for individuals making career choices and for organizations offering employment.
+The data science industry is rapidly developing, leading to a high demand for skilled professionals. Therefore, understanding factors that influence their salaries is crucial for individuals making career choices and for organizations offering employment.
 ### Scientific question
 We want to analyse what factors influence the salaries of IT specialists, and what is the impact of different factors on salaries compared between machine learning (ML) specialists, data scientists (DS), and data analysts (DA). We focus on the following questions:
 - Does experience level impact the salary?
